@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_Movies')
+                InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Juveniletides')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_Movies')
+            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Juveniletides')
             ],[
-            InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordship_series'),
-            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/AdultEmpire_xxx')
+            InlineKeyboardButton('Series Channel🎥', url='https://t.me/https://t.me/+rOZ52V43Wfs5ODFk'),
+            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/https://t.me/+h151ndLh5ZI4NWQ0')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
@@ -94,10 +94,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Lordship_Movies')
+            InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/JUVENILETIDES')
             ],[
-            InlineKeyboardButton('Series Bot🎥', url='https://t.me/Lordship_series'),
-            InlineKeyboardButton('Adult Bot🔞', url='https://t.me/AdultEmpire_xxx')
+            InlineKeyboardButton('Series Channel🎥', url='https://t.me/Juveniletides_x'),
+            InlineKeyboardButton('Adult Channel🔞', url='https://https://t.me/+h151ndLh5ZI4NWQ0')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
