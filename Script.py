@@ -11,7 +11,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     OWNER_TXT = """<b>✯ CREATOR: Divine</b>
 <b>✯ MOVIE CHANNEL: <a href=https://https://t.me/+t6R7tKJZiUI1OGJk>MOVIES SETS</a></b>
-<b>✯ SERIES CHANNEL: <a href=https://t.me/+rOZ52V43Wfs5ODFk>JUVENILETIDES_X</a></b>
+<b>✯ SERIES CHANNEL: <a href=https://t.me/+stcLhJf5g2tkMzA8>JUVENILETIDES_X</a></b>
 <b>✯ CREDIT: Everyone in this journey</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>DEVELOPED BY:</b>
