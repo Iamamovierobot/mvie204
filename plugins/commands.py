@@ -47,8 +47,8 @@ async def start(client, message):
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/Juveniletides')
             ],[
-            InlineKeyboardButton('Series Channel🎥', url='https://t.me/https://t.me/+rOZ52V43Wfs5ODFk'),
-            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/https://t.me/+h151ndLh5ZI4NWQ0')
+            InlineKeyboardButton('Series Channel🎥', url='https://t.me/+-tyk9Ar0-sYxNzVk'),
+            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/+0g3ZPk-Zw4UxOGI0')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
@@ -97,7 +97,7 @@ async def start(client, message):
             InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/JUVENILETIDES')
             ],[
             InlineKeyboardButton('Series Channel🎥', url='https://t.me/Juveniletides_x'),
-            InlineKeyboardButton('Adult Channel🔞', url='https://https://t.me/+h151ndLh5ZI4NWQ0')
+            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/+0g3ZPk-Zw4UxOGI0')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')
