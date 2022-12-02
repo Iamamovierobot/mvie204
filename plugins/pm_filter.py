@@ -409,8 +409,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Search Here 🔍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('Updates Channel🍿🎬', url='https://t.me/JUVENILETIDES')
             ],[
-            InlineKeyboardButton('Series Channel🎥', url='https://t.me/+rOZ52V43Wfs5ODFks'),
-            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/+h151ndLh5ZI4NWQ0')
+            InlineKeyboardButton('Series Channel🎥', url='https://t.me/+-tyk9Ar0-sYxNzVk'),
+            InlineKeyboardButton('Adult Channel🔞', url='https://t.me/+0g3ZPk-Zw4UxOGI0')
             ],[
             InlineKeyboardButton('Help ⚙', callback_data='help'),
             InlineKeyboardButton('🥰🅾︎🆆︎🅽︎🅴︎🆁︎', callback_data='owner')                                       
@@ -672,14 +672,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔞 CLICK HERE AND JOIN OUR ADULT CHANNEL",url="https://t.me/+h151ndLh5ZI4NWQ0")]
+            [InlineKeyboardButton(text="🔞 CLICK HERE AND JOIN OUR ADULT CHANNEL",url="https://t.me/+0g3ZPk-Zw4UxOGI0")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔞 CLICK HERE AND JOIN OUR ADULT CHANNEL",url="https://t.me/+h151ndLh5ZI4NWQ0")]
+            [InlineKeyboardButton(text="🔞 CLICK HERE AND JOIN OUR ADULT CHANNEL",url="https://t.me/+0g3ZPk-Zw4UxOGI0")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
